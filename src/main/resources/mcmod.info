@@ -1,0 +1,16 @@
+[
+{
+  "modid": "slackcraftforge",
+  "name": "SlackCraftForge",
+  "description": "Slack Chat Integration to Minecraft Forge",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Citringo"],
+  "credits": "(C)2016 Citringo",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
